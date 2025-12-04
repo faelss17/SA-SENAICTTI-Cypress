@@ -75,7 +75,7 @@ Home	Lista de objetivos	Pelo menos 4 itens são renderizados
 
 Durante a apresentação, será exibida a execução completa dos testes em um grupo pré-selecionado, conforme os requisitos da UC.
 
-👨‍💻 Autor
+Autor
 
 Rafael Duarte — SENAI Minas Gerais
 Projeto avaliativo da UC: Testes Automatizados com Cypress
